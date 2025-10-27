@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Unity as one",
+    "type": "Founder",
+    "uniques": ["[+3 Culture, +4 Faith] for each global city following this religion",
+      "[+1 Culture, +1 Faith] from every [2] global followers [in all cities]",
+      "[+1]% [Culture] from every follower, up to [+55]%"
+    ]
+  },
+  {
+    "name": "Better Together",
+    "type": "Follower",
+    "uniques": ["[+2 Production, +3 Faith] [in all cities]",
+      "[+2 Production] per [4] population [in all cities]",
+      "[+3 Culture] from all [Faith] buildings.",
+      "[+2 Food] from each Trade Route"
+    ]
+  },
+  {
+    "name": "United Farmwork",
+    "type": "Follower",
+    "uniques": [
+      "[+50]% Yield from every [Farm]", "[+25]% growth [in all cities]"
+    ]
+  }
+]
