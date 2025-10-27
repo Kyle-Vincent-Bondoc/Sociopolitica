@@ -1,0 +1,13 @@
+[{
+  "name": "Carrier of Peace and Faith",
+  "unitType": "Civilian",
+  "uniqueTo": "Sociopolitica",
+  "cost": 105,
+  "uniques": [
+    "Can Spread Religion <for [10] movements> <[1] times> <after which this unit is consumed>",
+    "May enter foreign tiles without open borders, but loses [425] religious strength each turn it ends there",
+    "[+2] Sight", "Religious Unit", "Only available <when religion is enabled>"]
+  ],
+  "movement": 4,
+  "religiousStrength": 2500
+}]
