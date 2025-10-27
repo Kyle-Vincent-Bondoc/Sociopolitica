@@ -1,0 +1,42 @@
+{
+  "name": "Sociopolitica",
+  "leaderName": "The council of Unity",
+  "startBias": ["Grassland", "Plains", "Hill", "Mountain", "Coast", "Forest", "River", "Lake", "Avoid [Tundra]", "Avoid [Snow]", "Avoid [Desert]", "Avoid [Jungle]", "Avoid [Ocean]"]
+  "preferredVictoryType": "Diplomacy",
+  "personality": "United",
+  "favoredReligion": "Unity",
+  "startIntroPart1": "Message from António Guterres: Hello newly founded council of Unity, You shall lead this community safe through wars and disasters.",
+  "startIntroPart2": "Manage your civilization wisely and remember to keep everyone happy and perserve the culture.",
+  "declaringWar": "We didn't want to do this but you have crosssed the line.",
+  "attacked": "We will endure this with our Unity",
+  "defeated": "Well, You win, Now let us unite with you.",
+  "denounced": "HEY! We're doing good things!",
+  "introduction": "Greetings, we are the council of Unity, our naton is perfectly united",
+  "neutralHello": "How would you like to interact with us?",
+  "hateHello": "We're doing good things, but don't expect us to praise you.",
+  "tradeRequest": "Want some items, We do too, this needs to be fair.",
+  "declaringFriendship": "Hello, Ally, You are now part of our united coummunity!",
+  "innerColor": [255, 255, 255],
+  "outerColor": [114, 75, 97],
+  "uniqueName": "Unity and Peace",
+  "uniques": ["[+2 Faith, +1 Food, +3 Culture] per [3] population [in all cities]",
+    "[+5 Culture, +2 Faith] per [2] social policies adopted",
+    "[+1 Culture] in cities on [Grassland] tiles",
+    "[+1 Gold, +1 Production, +2 Faith] from all [Culture] buildings."
+  ],
+  "cities": ["The Council", "First District", "Second District", "Third District", "Diplomace City", "Fourth District", "Fifth District", "Palace of Wisdom", "UN HQ",
+    "American Metropolitan Area", "Eurasian Metropolitan Area", "African Metropolitan Area", "Sector A", "Sector B", "Sector C", "Sector D", "Sector E", "Sector F",
+    "Sector G", "Sector H", "Sector I", "Sector J", "Sector K", "Sector L", "Sector M", "Sector N", "Sector O", "Sector P", "Sector Q", "Sector R", "Sector S",
+    "Sector T", "Sector U", "Sector V", "Sector W", "Sector X", "Sector Y", "Sector Z"
+  ],
+  "civilopediaText": [
+    {
+      "text": "Sociopolitica",
+      "header": 1
+    },
+    {"separator": true},
+    {
+      "text": "Sociopolitica is a diplomacy driven country led by the members of the Council of Unity"
+    }
+  ]
+}
