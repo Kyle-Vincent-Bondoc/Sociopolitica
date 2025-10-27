@@ -1,0 +1,19 @@
+[
+  {
+    "name": "United Meeting Center",
+    "uniqueTo": "Sociopolitica",
+    "cost": 65,
+    "happiness": 5,
+    "production": 1,
+    "culture": 3,
+    "faith": 2,
+    "gold": -1,
+    "maintenance": 4,
+    "cityHealth": 35,
+    "hurryCostModifier": 50,
+    "greatPersonPoints": {"Great Engineer": 1, "Great Scientist": 1, "Great Prophet": 1, "Great Artist": 1},
+    "uniques": [
+      "Can be purchased for [15] [Culture] [in all cities]"
+    ]
+  }
+]
