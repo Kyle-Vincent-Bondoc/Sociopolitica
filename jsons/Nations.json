@@ -1,4 +1,4 @@
-{
+[{
   "name": "Sociopolitica",
   "leaderName": "The council of Unity",
   "startBias": ["Grassland", "Plains", "Hill", "Mountain", "Coast", "Forest", "River", "Lake", "Avoid [Tundra]", "Avoid [Snow]", "Avoid [Desert]", "Avoid [Jungle]", "Avoid [Ocean]"]
@@ -39,4 +39,4 @@
       "text": "Sociopolitica is a diplomacy driven country led by the members of the Council of Unity"
     }
   ]
-}
+}]
