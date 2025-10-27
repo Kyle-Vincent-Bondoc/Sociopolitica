@@ -1,0 +1,32 @@
+[
+  {
+      "name": "Unity",
+      "culture": 9,
+      "faith": 9,
+      "food": 6,
+      "gold": 4,
+      "happiness": 9,
+      "production": 5,
+      "science": 6,
+      "military": 3,
+      "aggressive": 10,
+      "declareWar": 0,
+      "commerce": 6,
+      "diplomacy": 9,
+      "loyal": 9,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 7,
+          "Honor": 1,
+          "Commerce": 6,
+          "Patronage": 9,
+          "Piety": 9,
+          "Rationalism": 7,
+          "Freedom": 9,
+          "Autocracy": 1,
+          "Order": 9
+      }
+  }
+]
